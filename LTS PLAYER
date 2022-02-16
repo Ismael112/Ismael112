@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0 tvg-id="https://www.linkpicture.com/q/IMG_20220207_235630.png" group-title="INFANTIL",23132131241_LATINO KIDS
+https://videostreaming.cloudserverlatam.com:443/8066/8066/chunklist_w14712676.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="https://www.linkpicture.com/q/1644300309586.png" group-title="INFANTIL",231321312416_ENERGEEK
+https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8
+#EXTINF:0 tvg-id="https://www.linkpicture.com/q/IMG_20220212_210644.png" group-title="INFANTIL",231321312417_KANADE TV
+https://stmv1.voxhdnet.com:443/enegeek2/enegeek2/chunklist_w1053975033.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="https://www.linkpicture.com/q/IMG_20220212_211914.png" group-title="INFANTIL",231321312418_ANIME ZONE
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:0 tvg-id="https://i.pinimg.com/236x/f0/be/d6/f0bed6cc9a3e5f519b60278341b32c29.jpg" group-title="INFANTIL",231321312420_LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="http://newsroom.etomato.com/userfiles/ANIPLUS_LOGO.PNG" group-title="INFANTIL",231321312421_ANIPLUS TV
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="INFANTIL",231321312422_BITME
+http://user.tvcluboficial.com/stream/free_Lopillo_Acevedo/Wyj/93.m3u8
+#EXTINF:0 tvg-id="https://www.linkpicture.com/q/IMG_20220207_232757.png" group-title="INFANTIL",231321312431_CHINOLA TV
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
